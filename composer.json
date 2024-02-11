@@ -1,0 +1,14 @@
+{
+    "name": "carvalho/converter",
+    "autoload": {
+        "psr-4": {
+            "Converter\\": "converter/"
+        }
+    },
+    "authors": [
+        {
+            "name": "carvalho57",
+            "email": "gabrielfeocarvalho57@gmail.com"
+        }
+    ]    
+}
