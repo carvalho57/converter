@@ -1,9 +1,8 @@
 # Conversor
 
-Converter entre diferentes formatos de dados
+Converter arquivos de diferentes formatos de dados
 
 ## Funcionalidades
 
 - [X] CSV para JSON
-- [ ] JSON para CSV
-- [ ] JSON para SQL
+- [X] JSON para CSV

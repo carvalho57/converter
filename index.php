@@ -4,7 +4,10 @@ use Converter\Converter;
 
 require_once 'vendor/autoload.php';
 
-$filename = 'files/csv-example.csv';
+$csvFile = 'files/csv-example.csv';
+$jsonFile = 'files/json-example.json';
 
 
-echo Converter::fromCsvToJson($filename);
+$conversor = new Converter();
+$conversor->fromCSVToJSON($csvFile);
+// $conversor->fromJSONToCSV($jsonFile);
