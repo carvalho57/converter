@@ -6,3 +6,4 @@ Converter arquivos de diferentes formatos de dados
 
 - [X] CSV para JSON
 - [X] JSON para CSV
+- [X] TO SQL
